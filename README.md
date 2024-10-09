@@ -1,8 +1,6 @@
-# d2pdf
+# ![logo](img/drawing.png) d2pdf
 
 [About](#about) ~ [Installation](#installation) ~ [Usage](#usage)
-
-[!logo](https://github.com/06j07m/d2pdf/blob/main/img/drawing.png)
 
 ## About
 
