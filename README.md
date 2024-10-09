@@ -2,7 +2,7 @@
 
 [About](#about) ~ [Installation](#installation) ~ [Usage](#usage)
 
-[!logo](/img/drawing.png)
+[!logo](https://github.com/06j07m/d2pdf/blob/main/img/drawing.png)
 
 ## About
 
