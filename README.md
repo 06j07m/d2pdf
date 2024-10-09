@@ -11,7 +11,7 @@ bookmarklet[^?] that allows you to open the current pdf in a new window.
 ## Installation
 
 1. Make a new bookmark in your browser's bookmarks/favourites bar
-2. Give it a recognizable name in the "Name" fiel, such as "d2pdf"
+2. Give it a recognizable name in the "Name" field, such as "d2pdf"
 3. Paste the code from `d2pdf.js` into the "URL" field
 
 
