@@ -2,6 +2,8 @@
 
 [About](#about) ~ [Installation](#installation) ~ [Usage](#usage)
 
+[!logo](/img/drawing.png)
+
 ## About
 
 D2L's built-in PDF viewer is cramped and difficult to use. Here is a 
