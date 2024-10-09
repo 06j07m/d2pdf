@@ -1,0 +1,1 @@
+javascript:window.open(window.location.origin + window.frames[0].document.getElementsByTagName('d2l-pdf-viewer').item(0).src);
